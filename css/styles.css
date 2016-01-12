@@ -1,6 +1,7 @@
 h3:hover {
   color: #be00ff;
   text-decoration: underline;
+  cursor: crosshair;
 }
 
 h2 {
@@ -33,6 +34,7 @@ h2 {
   border: 10px solid black;
   background-color: #800040;
   text-align: center;
+  color: white;
 }
 
 .row {
